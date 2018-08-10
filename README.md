@@ -1,5 +1,5 @@
 # PSHA_uncertainties
-This code performes Bootstrapping on more than 20 mollion sets of probabilistic hazard estimates to obtain the variations and uncertainties in the model. Results have been published in:
+This code performes Bootstrapping on more than 20 mollion sets of probabilistic hazard estimates and obtain %95 confidence interval of the models. Results have been published in:
 
 "Mousavi, S. M., G. C. Beroza, and S. M. Hoover (2018). Variabilities in Probabilistic Seismic Hazard Maps
 for Natural and Induced Seismicity in the Central and Eastern United States, The leading Edge, 37(2), 141a1-
