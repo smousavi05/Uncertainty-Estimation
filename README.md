@@ -14,6 +14,6 @@ Probabilistic seismic hazard analysis (PSHA) characterizes ground-motion hazard 
 ## Results
 ![confidence interval of bootstrapping](F1.png)
 
-95% confidence interval of bootstrapping showing variability of 1% probability of exceedance from the 2016 (left column) and 2017 (right column) model for PGA (a) 1 Hz and (b) 5 Hz spectral acceleration.Downloaded 02/05/18 to 171.66.12.35. Redistribution subject to SEG license or copyright; see Terms of Use at http://library.seg.org/
+95% confidence interval of bootstrapping showing variability of 1% probability of exceedance from the 2016 (left column) and 2017 (right column) model for PGA (a) 1 Hz and (b) 5 Hz spectral acceleration.Downloaded 02/05/18 to 171.66.12.35. 
  
 
