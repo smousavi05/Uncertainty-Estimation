@@ -8,6 +8,7 @@ for Natural and Induced Seismicity in the Central and Eastern United States, The
 141a9, https://doi.org/10.1190/tle37020810.1.`
 
 BibTeX:
+
     @article{mousavi2018variabilities,
      title={Variabilities in probabilistic seismic hazard maps for natural and induced seismicity in the central and eastern United States},
      author={Mousavi, S Mostafa and Beroza, Gregory C and Hoover, Susan M},
