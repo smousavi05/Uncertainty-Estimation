@@ -18,7 +18,7 @@ BibTeX:
       pages={141a1--141a9},
      year={2018},
      publisher={Society of Exploration Geophysicists Tulsa, Oklahoma}
-   }
+    }
 
 ## Paper
 (https://www.researchgate.net/publication/322902492_Variabilities_in_probabilistic_seismic_hazard_maps_for_natural_and_induced_seismicity_in_the_central_and_eastern_United_States)
