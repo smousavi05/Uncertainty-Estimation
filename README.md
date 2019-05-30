@@ -6,6 +6,8 @@ This code performes Bootstrapping on more than 20 mollion sets of probabilistic 
 for Natural and Induced Seismicity in the Central and Eastern United States, The leading Edge, 37(2), 141a1-
 141a9, https://doi.org/10.1190/tle37020810.1.`
 
+-----------------------------------------------------------------------------------------------------------------------
+
 BibTeX:
 
     @article{mousavi2018variabilities,
@@ -18,6 +20,8 @@ BibTeX:
      year={2018},
      publisher={Society of Exploration Geophysicists Tulsa, Oklahoma}
     }
+    
+-----------------------------------------------------------------------------------------------------------------------
 
 ## Paper
 (https://www.researchgate.net/publication/322902492_Variabilities_in_probabilistic_seismic_hazard_maps_for_natural_and_induced_seismicity_in_the_central_and_eastern_United_States)
