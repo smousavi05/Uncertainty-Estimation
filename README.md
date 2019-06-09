@@ -1,5 +1,5 @@
 # Estimating Uncertainties in Seismic Hazard Maps
-
+      
 This code performes Bootstrapping on more than 20 mollion sets of probabilistic hazard estimates and obtain %95 confidence interval of the models. Results have been published in:
 
 `Mousavi, S. M., G. C. Beroza, and S. M. Hoover (2018). Variabilities in Probabilistic Seismic Hazard Maps
